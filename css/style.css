@@ -1,0 +1,33 @@
+body {
+  /*background: url("images/background.jpg";*/
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.wrapper {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 0 auto;
+}
+
+header {
+
+}
+a {
+  text-decoration: none;
+  color: red;
+}
+.main {
+  width: 400px;
+  float: left;
+}
+.right {
+  width: 200px;
+  display: block;
+  vertical-align: middle;
+  float: right;
+}
+
+footer {
+  clear: both;
+}
